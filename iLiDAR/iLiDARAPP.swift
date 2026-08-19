@@ -9,6 +9,10 @@ The sample's main app.
 
 import SwiftUI
 
+// iLiDARAPP.swift - App entry point.
+// Created: 2024-01-01
+// Last updated: 2026-08-19
+
 @main
 struct iLiDARAPP: App {
     var body: some Scene {
